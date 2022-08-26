@@ -1,3 +1,9 @@
 ﻿    using System;
-    int x = 20 * 20;
-  Console.WriteLine(x);
+    Console.WriteLine(FeetToInches(60));
+    Console.WriteLine(FeetToInches(100));
+
+    int FeetToInches(int feet)
+  {
+    int inches = feet * 12;
+    return inches;
+  }
