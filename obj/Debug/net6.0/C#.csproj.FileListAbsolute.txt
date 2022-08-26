@@ -1,0 +1,15 @@
+C:\Users\MILAN\Documents\C#\bin\Debug\net6.0\C#.exe
+C:\Users\MILAN\Documents\C#\bin\Debug\net6.0\C#.deps.json
+C:\Users\MILAN\Documents\C#\bin\Debug\net6.0\C#.runtimeconfig.json
+C:\Users\MILAN\Documents\C#\bin\Debug\net6.0\C#.dll
+C:\Users\MILAN\Documents\C#\bin\Debug\net6.0\C#.pdb
+C:\Users\MILAN\Documents\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+C:\Users\MILAN\Documents\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILAN\Documents\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+C:\Users\MILAN\Documents\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+C:\Users\MILAN\Documents\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\MILAN\Documents\C#\obj\Debug\net6.0\C#.dll
+C:\Users\MILAN\Documents\C#\obj\Debug\net6.0\refint\C#.dll
+C:\Users\MILAN\Documents\C#\obj\Debug\net6.0\C#.pdb
+C:\Users\MILAN\Documents\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
+C:\Users\MILAN\Documents\C#\obj\Debug\net6.0\ref\C#.dll
