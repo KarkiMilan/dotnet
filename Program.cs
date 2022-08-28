@@ -1,12 +1,14 @@
-﻿using System;
-string name;
-int age;
-Console.Write("Enter your Name");
-name= Console.ReadLine();
-Console.Write("Enter your age ");
-    age = int.Parse(Console.ReadLine());
-   if (age < 18){
-    Console.WriteLine("Under Age");
-   }else{
-    Console.WriteLine("qualified Age");
-   }
+﻿panda p1 = new panda ("Pan Daw");
+panda p2 = new panda ("Paan Dha");
+Console.WriteLine(p1.Name);
+Console.WriteLine(p2.Name);
+Console.WriteLine(panda.Population);
+public class panda{
+    public String Name;
+    public static int Population;
+    public panda (string n){
+        Name = n;
+        Population = Population + 1;
+    }
+
+}
