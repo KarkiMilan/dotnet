@@ -1,14 +1,9 @@
-﻿panda p1 = new panda ("Pan Daw");
-panda p2 = new panda ("Paan Dha");
-Console.WriteLine(p1.Name);
-Console.WriteLine(p2.Name);
-Console.WriteLine(panda.Population);
-public class panda{
-    public String Name;
-    public static int Population;
-    public panda (string n){
-        Name = n;
-        Population = Population + 1;
-    }
-
-}
+﻿Point p1 = new Point();
+p1.x = 7;
+Point p2 = p1;
+Console.WriteLine (p1.x);
+Console.WriteLine (p2.x);
+p1.x = 9;
+Console.WriteLine (p1.x);
+Console.WriteLine (p2.x);
+public struct Point {public int x,y;}
