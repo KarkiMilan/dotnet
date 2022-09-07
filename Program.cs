@@ -1,9 +1,6 @@
-﻿Point p1 = new Point();
-p1.x = 7;
-Point p2 = p1;
-Console.WriteLine (p1.x);
-Console.WriteLine (p2.x);
-p1.x = 9;
-Console.WriteLine (p1.x);
-Console.WriteLine (p2.x);
-public struct Point {public int x,y;}
+﻿using System;
+Console.WriteLine(1.0.GetType());
+Console.WriteLine(1E06.GetType());
+Console.WriteLine(1.GetType());
+Console.WriteLine(0xF0000000.GetType());
+Console.WriteLine(0x1000000000.GetType());
